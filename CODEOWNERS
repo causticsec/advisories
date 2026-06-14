@@ -1,0 +1,3 @@
+# Code owners for the Caustic advisories repository.
+# Solo today — replace @sys0xFF with @causticsec/<team> when a team exists.
+* @sys0xFF
